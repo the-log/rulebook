@@ -1,6 +1,6 @@
 ## 5. Rookie Draft
 
-1. The HHB rookie draft will take place at a time and play deemed best for everyone in the league in august of every year.
+1. The LOG rookie draft will take place at a time and play deemed best for everyone in the league in august of every year.
 1. The draft will proceed in reverse order based on the previous season's final standings.
 1. Rookies in the inaugural year will be auctioned as part of the greater FA pool.
 1. The draft will last 4 rounds.
