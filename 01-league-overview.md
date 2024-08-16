@@ -14,7 +14,7 @@
 1. League off-season votes require 51% to pass.
 1. In-season votes, though discouraged, require 75% to pass.
 1. Owners are encouraged to suggest a change to the rules by contacting the commissioner's office. There will then be discussion in a forum, chat, and poll if needed.
-1. Votes will normally be conducted by the Polls at the HHB site. Off-season votes are due within 7 days. In-season votes are due within 48 hours of the time sent.
+1. Votes will normally be conducted by the Polls at the LOG site. Off-season votes are due within 7 days. In-season votes are due within 48 hours of the time sent.
 1. There are certain situations where some leniency is needed or a rule does not address an issue specifically. In these situations, the commissioners will have the final say on the rule or rules in question. A rule will then be put into action to address the concerned situation to prevent this from happening again in the future.
 1. For one week prior to the first draft there will be discussion and debate on rules followed by polls.
 1. After the Championship game each season there will be a time period of two weeks for owners to bring up possible rule changes. After this two weeks there will be polls put up for one week. Rule changes need 51% to pass (See Rule 1.12).

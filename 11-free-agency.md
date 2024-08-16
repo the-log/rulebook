@@ -1,6 +1,6 @@
 ## 11. Free Agency
 
-1. Any player not on a HHB roster or a DTS is considered a Free Agent.
+1. Any player not on a LOG roster or a DTS is considered a Free Agent.
 1. There will be 1 free agency period during the off-season.  This will take place before the NFL season starts, but after the RFA draft.
 1. FA ends when the fantasy playoffs start.
 1. Dollar amounts C-notes are used to bid on free agents.
