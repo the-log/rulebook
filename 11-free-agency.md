@@ -12,13 +12,13 @@
 1. The FA weekly process will be conducted in a *blind auction* manner. (No team will know how much another team is bidding) All bids will remain *sealed* until Thursday at 6pm EST (Wednesday when Thursday night games are played
 1. During the season, bids must contain all of the following: the name of the franchise, the name of the free agent(s) you want to acquire, the amount bid for that player, contract years to assign, a conditional release notice indicating the player you will waive to make room for the new player. Owners can submit conditional picks (ex- "Troy Aikman, if Aikman no longer available, Dan Marino").
     - **Example-Waiver Request #1**
-      \`\`\`
+      ```
       Player to be added: Joe Player/QB/Balt.
       Player to be dropped: Yo Mamma/S/Mia
       Bid: $5/yr
       Contract: 3 years
       Conditional Player- (You may add the players here, in order of who to place the bid on if above player is taken)
-      \`\`\`
+      ```
 1. If more than one team requests the same player, the team submitting the highest bid will acquire that player.
 1. During the season: In the event that two or more teams submit the same high bid for a player, the commissioner will award the free agent to the team with the worst record followed by the team that has scored the fewest points.
 1. During the off-season: In the event that two or more teams submit the same high bid for a player, the free agent will be awarded to the team with the worst record the previous year, followed by total points. In the inaugural pre-season, any tie will be broken by an auction, with first owner to submit email to account starting the bid by $1 more than his original bid, and so on until player is claimed.

@@ -1,11 +1,11 @@
 ## 1. League Overview
 
 1. The League will consist of 10 Franchises
-1. The Regular season will be 13 weeks long
+1. The Regular season will be 14 weeks long
 1. Weekly league games will be played head to head against opposing franchises
 1. The league will be run on ESPN.com and on these forums (during the off-season due to lack of roster flexibility and year round availability)
-1. The league will consist of 1 conference containing two divisions (Blue & White)
-1. Each team will play division rivals twice and non-division foes once each season
+1. The league will consist of 1 conference containing two divisions (East & West)
+1. Each team will play division rivals twice and non-division foes at least once each season. One non-divison team will be played twice.
 1. The league office will consist of one League Commissioner
 1. The league commissioners are responsible for conducting league business, arbitrating league disputes, recording all draft information, collecting weekly line-ups, compiling the weekly Free Agent pick-up list, and providing weekly reports to franchise owners.
 1. An assistant commissioner will be appointed by the league commissioner and will be responsible for communicating league concerns and business to the commissioners and intervening in transactions that involve the league commissioners. If the commissioners are out of contact for any length of time, the assistant commissioner will attend any matters requiring timely action. The commissioner may request assistance in the roles in 1.9.
